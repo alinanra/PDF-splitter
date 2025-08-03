@@ -41,4 +41,4 @@ Drag the red line to where you want to split all pages:
 ### Step 2: Choose page order and save  
 Select whether the left or right side is first, then click save:
 
-![Step 2 – Save split PDF](https://github.com/user-attachments/assets/f5ba8d11-ecae-4cc4-aa76-c5b57af08291)
+![Step 2 – Save split PDF](https://github.com/user-attachments/assets/09362988-22ca-43b6-88a2-76278c271b2e)
