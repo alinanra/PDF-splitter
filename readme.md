@@ -27,6 +27,7 @@ Install dependencies with:
 
 ```bash
 pip install pymupdf pillow
+```
 
 ## 🖼️ Screenshots
 
