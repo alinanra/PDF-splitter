@@ -29,6 +29,9 @@ Install dependencies with:
 pip install pymupdf pillow
 
 Drag the red line
-<img width="341" height="365" alt="image" src="https://github.com/user-attachments/assets/f2dd97b6-3033-4fbe-b27c-4cd12e008e6f" />
-Choose whether the right or left page comes first and click save to choose where to the save.
-<img width="483" height="374" alt="image" src="https://github.com/user-attachments/assets/f5ba8d11-ecae-4cc4-aa76-c5b57af08291" />
+![Preview of vertical split line](https://github.com/user-attachments/assets/f2dd97b6-3033-4fbe-b27c-4cd12e008e6f)
+
+Choose whether the right or left page comes first and click save to choose where to save.
+
+![Save split PDF prompt](https://github.com/user-attachments/assets/f5ba8d11-ecae-4cc4-aa76-c5b57af08291)
+
