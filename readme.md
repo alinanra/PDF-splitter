@@ -34,13 +34,11 @@ pip install pymupdf pillow
 ### Step 1: Set the vertical split line  
 Drag the red line to where you want to split all pages:
 
-![Step 1 – Vertical split line](<img width="763" height="668" alt="image" src="https://github.com/user-attachments/assets/a605c37e-50d2-4bd4-98b0-b556c1a8cc5f" />
-)
+![Step 1 – Vertical split line](https://github.com/user-attachments/assets/a605c37e-50d2-4bd4-98b0-b556c1a8cc5f)
 
 ---
 
 ### Step 2: Choose page order and save  
 Select whether the left or right side is first, then click save:
 
-![Step 2 – Save split PDF](<img width="765" height="670" alt="image" src="https://github.com/user-attachments/assets/5a474375-8edf-4f89-a654-a747b567b5aa" />
-)
+![Step 2 – Save split PDF](https://github.com/user-attachments/assets/5a474375-8edf-4f89-a654-a747b567b5aa)
